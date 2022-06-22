@@ -5,7 +5,8 @@ Vehicles Counting merupakan sistem penghitung kendaraan berbasis kecerdasan buat
 https://drive.google.com/file/d/19PaWy2rQ4L-psVlkuXyoWhNt20XKhzU9/view?usp=sharing
 
 # Cara running project
-1. Klik link berikut : <a href="https://colab.research.google.com/drive/1L8-bCcU4sNQhz5eoZVfWAXr985BNasJY?usp=sharing">Model weights</a>
+1. Klik link berikut : <a href="https://colab.research.google.com/drive/1L8-bCcU4sNQhz5eoZVfWAXr985BNasJY?usp=sharing">Vehicles Counting System in Traffic</a>
+https://colab.research.google.com/drive/1L8-bCcU4sNQhz5eoZVfWAXr985BNasJY?usp=sharing
 2. Upload folder atau link video untuk di ekstrak
 3. Run All
 
